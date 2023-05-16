@@ -1,4 +1,4 @@
-| I highly recommend to check [nori.ni](https://github.com/mkukiro/nori.ni) too! <img src="https://nukocities.neocities.org/nuko/act/cat4.gif">|
+| I highly recommend to check [nori.ni](https://github.com/mkukiro/nori.ni) too! It is another esolang of mine, but oryx won't be updated since it's for a jam, nori.ni is upadated frequently instead! <img src="https://nukocities.neocities.org/nuko/act/cat4.gif">|
 | - |
 
 <img align="right" height="145" src=".meow/oryx.svg">
