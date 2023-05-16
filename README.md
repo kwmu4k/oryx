@@ -42,7 +42,7 @@ Every program's first character should be a space, the default direction for a p
 | `+`         |        | Add last two values together, leaving only the result                 |
 | `-`         |        | Subtract last two values together, leaving only the result            |
 | `*`         |        | Multiply last two values together, leaving only the result            |
-| `|`         |        | Divide last two values together, leaving only the result              |
+| `\|`        |        | Divide last two values together, leaving only the result              |
 | `°`         |        | Raise last two values together, leaving only the result               |
 | `%`         |        | Modulo last two values together, leaving only the result              |
 | `I`         |        | Push a random bit (either 0 or 1)                                     |
