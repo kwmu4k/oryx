@@ -11,11 +11,11 @@ To run `main.yx` just type `python main.py`, if you want to run another file, us
 
 ## Commands
 
-oryx has a thing called energy, every programs starts with 100 energy, some commands use a bit of energy, to get more energy, run `·`!
+oryx has a thing called energy, every programs starts with 100 energy, some commands may use a bit of it, to get more, run `·`!
 
 The interpreter ignores every other character than these, making them no-op
 
-Every program's first character should be a space, the default direction for a program is also right.
+Every program's first character should be a space and the default direction for a program is right.
 
 ### IP direction commands
 
