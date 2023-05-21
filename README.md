@@ -57,11 +57,15 @@ Here are some example programs!
 
 ### 1 char cat program [<img src="https://nukocities.neocities.org/nuko/act/cat1.gif">](https://github.com/mkukiro/nori.ni/tree/develop#cat-program-)
 
-``` ao &```
+```yx
+ ao &
+```
 
 ### Numerical cat program
 
-``` nO &```
+```yx
+ nO &
+```
 
 ### Infinite 1-char cat program
 
@@ -85,7 +89,9 @@ Here are some example programs!
 
 ### Bit inverter
 
-``` 1;-```
+```yx 
+ 1;-
+```
 
 ### Random binary sequence screensaver
 
