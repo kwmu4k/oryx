@@ -50,27 +50,21 @@ def run():
       # print(f'\033[33m{char}')
 
 
-      # Mirrors, yes, I didn't find a way to use lambdas here, Rust `match` would have saved me lines :(
+      # Mirrors
 
       if char == '/':
-          if direction == 'l':
-              direction = 'u'
-          elif direction == 'r':
-              direction = 'd'
-          elif direction == 'u':
-              direction = 'l'
-          elif direction == 'd':
-              direction = 'r'
+        match direction:
+          case 'l': direction = 'u'
+          case 'r': direction = 'd'
+          case 'u': direction = 'l'
+          case 'd': direction = 'r'
 
       elif char == '\\':
-          if direction == 'l':
-              direction = 'd'
-          elif direction == 'r':
-              direction = 'u'
-          elif direction == 'u':
-              direction = 'r'
-          elif direction == 'd':
-              direction = 'l'
+        match direction:
+          case 'l': direction = 'd'
+          case 'r': direction = 'u'
+          case 'u': direction = 'r'
+          case 'd': direction = 'l'
 
 
       elif char == 'v':
